@@ -1,0 +1,19 @@
+body{
+    background-image: url("FACE\ RECOGNITION.png");
+}
+
+.styletext{
+   color: rgb(255, 255, 255);
+   font-family: 'PT Sans', sans-serif;
+}
+
+.styletext2{
+    color: rgb(0, 0, 0);
+   font-family: 'PT Sans', sans-serif;
+}
+
+.heading{
+    font-size: 22px;
+    width: 25%;
+}
+
